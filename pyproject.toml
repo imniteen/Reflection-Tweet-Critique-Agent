@@ -1,0 +1,13 @@
+[project]
+name = "reflection-tweet-critique-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "grandalf>=0.8",
+    "langchain-core>=1.0.0",
+    "langchain-openai>=1.0.1",
+    "langgraph>=1.0.1",
+]
